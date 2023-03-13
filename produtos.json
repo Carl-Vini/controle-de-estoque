@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0001",
+        "nome": "Teclado",
+        "marca": "Genérico"
+    },
+    {
+        "id": "0002",
+        "nome": "Mouse",
+        "marca": "Genérico"
+    },    {
+        "id": "0003",
+        "nome": "Monitor",
+        "marca": "LG"
+    },
+    {
+        "id": "0004",
+        "nome": "Tablet",
+        "marca": "Samsung"
+    },
+    {
+        "id": "0005",
+        "nome": "Headset",
+        "marca": "HyperX"
+    },    {
+        "id": "0006",
+        "nome": "Notebook",
+        "marca": "Razer"
+    },    {
+        "id": "0007",
+        "nome": "Roteador",
+        "marca": "Genérico"
+    },    {
+        "id": "0008",
+        "nome": "Pen Drive",
+        "marca": "HyperX"
+    }
+]
